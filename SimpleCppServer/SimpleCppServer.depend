@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1701700389 source:/home/bbeluco/Documents/Programming/SimpleCppServer/SimpleCppServer/main.cpp
+	<sys/socket.h>
+	<netinet/in.h>
+	<unistd.h>
+	<iostream>
+	<cstdlib>
+
