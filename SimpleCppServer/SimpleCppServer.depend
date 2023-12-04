@@ -1,8 +1,19 @@
 # depslib dependency file v1.0
-1701700389 source:/home/bbeluco/Documents/Programming/SimpleCppServer/SimpleCppServer/main.cpp
+1701714254 source:/home/bbeluco/Documents/Programming/SimpleCppServer/SimpleCppServer/main.cpp
+	<vector>
 	<sys/socket.h>
 	<netinet/in.h>
 	<unistd.h>
 	<iostream>
 	<cstdlib>
+	"sockaddrConfig.h"
+	"sockCreation.h"
+	"MessagerTransfer.h"
+
+1701712567 /home/bbeluco/Documents/Programming/SimpleCppServer/SimpleCppServer/sockaddrConfig.h
+
+1701714061 /home/bbeluco/Documents/Programming/SimpleCppServer/SimpleCppServer/sockCreation.h
+	<cassert>
+
+1701714272 /home/bbeluco/Documents/Programming/SimpleCppServer/SimpleCppServer/MessagerTransfer.h
 
